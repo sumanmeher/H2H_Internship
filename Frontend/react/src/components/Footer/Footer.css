@@ -1,0 +1,9 @@
+.footertext{
+    width: 100%;
+    position:fixed;
+    margin-top: 100px;
+    text-align: center;
+}
+.privacy{
+   color:blue
+}

@@ -1,0 +1,46 @@
+.textbox-add {
+    width: 280px;
+    padding: 10px 10px 10px 0px;
+    border-radius: 5px;
+    outline: none;
+    background: whitesmoke 0% 0% no-repeat padding-box;
+    color: #97a1a9;
+  }
+  .analyticsbuttons{
+    display: flex;
+    padding: 10px;
+    
+  }
+  #cancelanalytics {
+    margin: 5px;
+    flex: 1;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    border-radius: 5px;
+    background-color: #2A3E4C;
+    font: normal normal normal 18px Ubuntu;
+    padding: 10px;
+    
+  }
+  #analyticsbutton {
+    margin: 5px;
+    flex: 1;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    border-radius: 5px;
+    background-color: #2A3E4C;
+    font: normal normal normal 18px Ubuntu;
+    padding: 10px;
+  }
+  .flexinside{
+      flex: 1;
+  }
+  .flexcontainer{
+      display: flex;
+  }
+  .padcustom{
+    padding: 10px 10px 10px 20px;
+    
+  }

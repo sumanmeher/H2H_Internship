@@ -1,0 +1,15 @@
+.Navbar {
+  margin: auto;
+  padding: auto;
+}
+
+.abc_logo {
+  float: left;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.highradius_logo {
+  padding-top: 20px;
+  padding-left: 24%;
+}

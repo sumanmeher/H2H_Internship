@@ -1,0 +1,37 @@
+div {
+  color: whitesmoke;
+}
+.deletecontainer{
+  line-height: 2;
+}
+.margin{
+  margin: 10px;
+}
+.deletebuttons{
+  display: flex;
+
+  
+}
+#canceldelete {
+  margin: 5px;
+  flex: 1;
+  text-align: center;
+  border: 1px solid whitesmoke;
+  color: whitesmoke;
+  border-radius: 5px;
+  background-color: #2A3E4C;
+  font: normal normal normal 18px Ubuntu;
+  padding: 10px;
+  
+}
+#deletebutton {
+  margin: 5px;
+  flex: 1;
+  text-align: center;
+  border: 1px solid whitesmoke;
+  color: whitesmoke;
+  border-radius: 5px;
+  background-color: #2A3E4C;
+  font: normal normal normal 18px Ubuntu;
+  padding: 10px;
+}

@@ -1,0 +1,207 @@
+.table {
+  width: 100%;
+  height: 563px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin-top: 20px;
+}
+
+.nav-table {
+  width: inherit;
+}
+.table-function {
+  display: flex;
+  justify-content: space-between;
+}
+
+.analytics-view {
+  width: 180px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  background-color: #273d49cc;
+  opacity: 1;
+  margin: 20px 0 0;
+  justify-content: space-evenly;
+}
+
+.analytics-view p {
+  margin: auto;
+  color: white;
+  font: normal normal normal 16px Ubuntu;
+}
+
+.advance-search {
+  width: 180px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  background-color: #273d49cc;
+  border-radius: 0 5px 5px 0;
+  opacity: 1;
+  margin: 20px 10px 0 0;
+  justify-content: space-evenly;
+}
+
+.advance-search p {
+  margin: auto;
+  color: white;
+  font: normal normal normal 16px Ubuntu;
+}
+
+.refreshbutton{
+  width: 60px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  border-radius: 5px;
+  background-color: #273d49cc;
+  margin: 20px 0 0 0;
+}
+
+
+.predict {
+  width: 180px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  background-color: #273d49cc;
+  border-radius: 5px 0 0 5px;
+  opacity: 1;
+  margin: 20px 0 0 20px;
+  justify-content: space-evenly;
+}
+
+.predict p {
+  margin: auto;
+  color: white;
+  font: normal normal normal 16px Ubuntu;
+}
+
+/* add-invoice css (Button) */
+
+.add-invoice {
+  width: 180px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  background-color: #273d49cc;
+  border-radius: 5px 0 0 5px;
+  opacity: 1;
+  margin: 20px 0 0 0;
+  justify-content: space-evenly;
+}
+
+.add-invoice p {
+  margin: auto;
+  color: white;
+  font: normal normal normal 16px Ubuntu;
+}
+
+/* edit-invoice css (Button) */
+
+.edit-invoice {
+  width: 180px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  background-color: #273d49cc;
+  opacity: 1;
+  margin: 20px 0 0 0;
+  justify-content: space-evenly;
+}
+
+.edit-invoice p {
+  margin: auto;
+  color: white;
+  font: normal normal normal 16px Ubuntu;
+}
+
+/* delete-invoice css (Button) */
+
+.delete-invoice {
+  width: 180px;
+  height: 35px;
+  border: 1px solid #14aff1;
+  background-color: #273d49cc;
+  border-radius: 0 5px 5px 0;
+  opacity: 1;
+  margin: 20px 20px 0 0;
+  justify-content: space-evenly;
+}
+
+.delete-invoice p {
+  margin: auto;
+  color: white;
+  font: normal normal normal 16px Ubuntu;
+}
+
+/* search-bar css (Button) */
+
+.search-bar {
+  margin: 20px 20px 0px 0px;
+  align-items: center;
+}
+
+.search-bar input[type='text'] {
+  width: 250px;
+  height: 30px;
+  border: 1px solid #356680;
+  border-radius: 5px;
+  margin: 0px 0 0 3px;
+  outline: none;
+  background: whitesmoke 0% 0% no-repeat padding-box;
+  color: #97a1a9;
+}
+
+.search-bar img {
+  position: relative;
+  top: -5px;
+  left: -40px;
+  width: 20px;
+  height: 20px;
+}
+
+::placeholder {
+  font: normal normal normal 14px Ubuntu;
+  color: #97a1a9;
+  opacity: 1;
+  padding-left: 10px;
+  margin: auto;
+}
+
+/*Add modal popup*/
+#popup-2 {
+  width: 44%;
+  background-color: #273d49cc;
+  border-color: #273d49cc;
+  border-radius: 5px;
+}
+#popup-4 {
+  width: 42%;
+  background-color: #273d49cc;
+  border-color: #273d49cc;
+  border-radius: 5px;
+}
+#popup-6 {
+  width: 82%;
+  background-color: #273d49cc;
+  border-color: #273d49cc;
+  border-radius: 5px;
+}
+#popup-8 {
+  width: 41%;
+  background-color: #273d49cc;
+  border-color: #273d49cc;
+  border-radius: 5px;
+}
+#popup-10 {
+  width: 25%;
+  background-color: #273d49cc;
+  border-color: #273d49cc;
+  border-radius: 5px;
+}
+
+.table-data {
+  margin-top: 20px;
+  height: 68vh; 
+  width: '100%'
+}
+
+.MuiDataGrid-root .css-3ihp42-MuiDataGrid-root{
+  border:none
+}
